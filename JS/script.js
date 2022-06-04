@@ -49,7 +49,7 @@ function playGround(Pidx, Cidx){
     if (Pidx == 0) { //0=>rocks
         if (Cidx == 0) {
             return "Draw!";
-        } else if (Cidx == 1) { //1=> papper
+        } else if (Cidx == 1) { //1=> paper
             comScore++
             return "Computer wins!";
         } else if (Cidx == 2){  //2=>scissors
