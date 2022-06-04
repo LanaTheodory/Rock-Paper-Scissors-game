@@ -1,10 +1,10 @@
 # Rock-Paper-Scissors-game
 Brainnest Intwership JavaScript
 
-#Hello There!
+# Hello There!
 welcome to Javascript console rock papaers,scissors game
 
-#instructions:
+# instructions:
 1-open developer tools on your browser
 2-start the game by choosing a number representing each move:
 1- rocks
