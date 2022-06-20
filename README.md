@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors-game
-Brainnest Internship JavaScript
+Brainnest Internship JavaScript console game.
 
 # Hello There!
 Welcome to Javascript console rock papaers,scissors game\
